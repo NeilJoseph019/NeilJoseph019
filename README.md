@@ -16,7 +16,14 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Put 
 - 📫 How to reach me: neiljoseph.09@gmail.com 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeilJoseph019&langs_count=8)
+const { Contributions } = require('contributions')
+
+const contributions = await Contributions.forUser('NeilJoseph019');
+const days = contributions.getDays();
+
+for (let day of days) {
+    console.log(`${day.getDate()}: ${day.getIntensity()}`);
+}
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NeilJoseph019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/neil-joseph2020//)  
 
