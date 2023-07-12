@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Neil Joseph
 
-![People call me the Indian Software Developer Man](https://github.com/NeilJoseph019/NeilJoseph019/blob/main/1637454535804.jpg)
+![ I am Software Developer](https://github.com/NeilJoseph019/NeilJoseph019/blob/main/1637454535804.jpg)
 
-#### People call me the Indian Software Developer Man
+#### I am Software Developer.
 
 As a highly motivated computer engineer actively seeking an Associate/Entry-Level Full-Time job opportunity at your
 organization, I bring enthusiasm, determination, and a strong skill set to contribute to the team. With a passion for
