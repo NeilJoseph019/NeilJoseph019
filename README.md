@@ -2,7 +2,7 @@
 
 ![ I am Software Developer](https://github.com/NeilJoseph019/NeilJoseph019/blob/main/1637454535804.jpg)
 
-## 👨‍💻 I am Software Developer.
+#### 👨‍💻 I am Software Developer.
 
 As a highly motivated computer engineer actively seeking an Associate/Entry-Level Full-Time job opportunity at your
 organization, I bring enthusiasm, determination, and a strong skill set to contribute to the team. With a passion for
@@ -10,7 +10,7 @@ research, analytical thinking, and technological awareness, I possess excellent 
 Alongside these technical skills, my interpersonal skills allow me to collaborate effectively with colleagues. I thrive on
 new challenges and have a continuous learning mindset, making me a valuable asset to your organization
 
-## 🧰 Languages and Tools
+#### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
