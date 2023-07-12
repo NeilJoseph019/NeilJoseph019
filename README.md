@@ -10,15 +10,11 @@ research, analytical thinking, and technological awareness, I possess excellent 
 Alongside these technical skills, my interpersonal skills allow me to collaborate effectively with colleagues. I thrive on
 new challenges and have a continuous learning mindset, making me a valuable asset to your organization
 
-Skills: REACT / JS / HTML / CSS
+Skills: Python, JavaScript, HTML, Tailwind/CSS, SQL, React, Django and Django Rest Framework(Rest API), Nginx, Gunicorn, PySpark
 
-- 🔭 I’m currently working on Put 
-- 🌱 I’m currently learning Put 
+- 🔭 I’m currently working on  
+- 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: neiljoseph.09@gmail.com 
-
-[![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeilJoseph019)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeilJoseph019)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NeilJoseph019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/neil-joseph2020//)  
 
