@@ -1,5 +1,4 @@
-### 👨‍💻![MuaKissGIF](https://github.com/NeilJoseph019/NeilJoseph019/assets/48658308/55ddef22-7784-4a80-af90-7963fd8bf4de)
- Neil Joseph
+# 👨‍💻 Neil Joseph
 
 ![ I am Software Developer](https://github.com/NeilJoseph019/NeilJoseph019/blob/main/1637454535804.jpg)
 
