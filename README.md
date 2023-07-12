@@ -10,6 +10,11 @@ research, analytical thinking, and technological awareness, I possess excellent 
 Alongside these technical skills, my interpersonal skills allow me to collaborate effectively with colleagues. I thrive on
 new challenges and have a continuous learning mindset, making me a valuable asset to your organization
 
+#### 📞 Additional Information
+- 🔭 I’m currently working on Personal Projects
+- 🌱 I’m currently learning Next.js 
+- 📫 How to reach me: neiljoseph.125@gmail.com   
+
 #### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -26,12 +31,7 @@ new challenges and have a continuous learning mindset, making me a valuable asse
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-## 📞 Additional Information
-- 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning Next.js 
-- 📫 How to reach me: neiljoseph.125@gmail.com 
+<br />  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NeilJoseph019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/neil-joseph2020//)  
 
