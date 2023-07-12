@@ -16,7 +16,7 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Put 
 - 📫 How to reach me: neiljoseph.09@gmail.com 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeilJoseph019&show_icons=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NeilJoseph019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/neil-joseph2020//)  
 
