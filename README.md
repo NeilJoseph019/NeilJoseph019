@@ -5,7 +5,6 @@
 #### 👨‍💻 I am Full-Stack Software Developer.
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning C# and ASP.net
 - 📫 How to reach me: neiljoseph.125@gmail.com
 &nbsp;
 
